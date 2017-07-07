@@ -1,6 +1,6 @@
 // Diego Land
 // Nation management game
-// Jack and Anish
+// Jack and Anishhhhh
 
 import java.util.Scanner;
 import java.util.Random;
